@@ -1,6 +1,7 @@
-from metodos.buscaEmLargura import buscaEmLargura
-from metodos.buscaEmCustoUniforme import buscaEmCustoUniforme
-from metodos.buscaEmProfundidade import buscaEmProfundidade
+from curses import COLORS
+from Metodos.buscaEmLargura import buscaEmLargura
+from Metodos.buscaEmCustoUniforme import buscaEmCustoUniforme
+from Metodos.buscaEmProfundidade import buscaEmProfundidade
 from cidades import cidades, heuristicaGuanambiPotiragua
 
 
@@ -19,6 +20,10 @@ elif (algoritmo == '2'):
 elif (algoritmo == '3'):
   print('Busca Em Profundidade\n\n')
   buscaEmProfundidade(origem, destino, cidades)
+
+  #elif (algoritmo == '4'):
+ # print('Busca psr \n\n')
+ #buscaPsr (COLORS)
 else:
   print("Algoritmo não encontrado")
   print('Escolha um número entre 1 a 3')
