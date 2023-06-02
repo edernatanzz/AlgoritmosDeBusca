@@ -3,7 +3,7 @@ artificial intelligence
 
 Algoritmos de busca
 
-Projeto de Intelingia Artificial
+Projeto de Inteligencia Artificial
 
 Produzido por Thalison Botelho da Silva e Eder Natan
 
