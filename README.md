@@ -3,9 +3,9 @@ artificial intelligence
 
 Algoritmos de busca
 
-Projeto IA FAINOR
+Projeto de Intelingia Artificial
 
-Thalison Botelho da Silva e Eder Nathan
+Produzido por Thalison Botelho da Silva e Eder Natan
 
 Como Executar Os Algoritmos Busca:
 
